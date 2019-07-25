@@ -39,6 +39,9 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in the DRLND GitHub repository, in the `p2_continuous-control/` folder, and unzip (or decompress) the file. 
 
+#### Setting up the environment
+For setting up the environment follow the instructions given [here](https://github.com/udacity/deep-reinforcement-learning#dependencies).
+
 ### Instructions
 
 To run the code and train your own DDPG agent open the [DDPG-Continuous.ipyp](./DDPG-Continuous.ipynb).
